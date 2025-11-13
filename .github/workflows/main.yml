@@ -47,6 +47,4 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
-          plugin_stars: yes
-          plugin_stars_limit: 4
           repositories_batch: 100
